@@ -1,0 +1,4 @@
+<launch>
+  <node name="CsNetworkManager" pkg="network_manager" type="CsNetworkConfigModule.py" />
+
+</launch>

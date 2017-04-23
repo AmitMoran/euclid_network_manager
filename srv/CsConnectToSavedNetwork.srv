@@ -1,0 +1,4 @@
+string ssid
+---
+bool res
+string message
