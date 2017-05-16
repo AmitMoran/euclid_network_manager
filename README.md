@@ -12,12 +12,8 @@ This network manager node is reponsible for handling device network connectivity
 
 ## Published Topics
     None    
-		
-## Parameters
-    None
-		
-## Services
- 
+	
+## Services 
     /euclid/network/scan (network_manager/handle_scanNetworks)
         Call for wifi network scan flow.
     /euclid/network/list (network_manager/handle_getNetworksList)
