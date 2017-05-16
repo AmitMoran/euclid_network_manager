@@ -6,9 +6,8 @@ This network manager node is reponsible for handling device network connectivity
 
 [Intel® Euclid™ Support Forum](http://www.intel.com/content/www/us/en/support/emerging-technologies/intel-euclid-development-kit.html).
 
-## Subscribed Topics
-
-    None
+## Subscribed Topics 
+None
 
 ## Published Topics
     None    
