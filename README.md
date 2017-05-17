@@ -1,4 +1,4 @@
-# Intel&reg; Euclid&trade; Network manager node.
+# Intel&reg; Euclid&trade; Automation Nodes - Network manager node.
 
 This network manager node is reponsible for handling device network connectivity , Wifi discovery, Hotspot publishing.
 
